@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "751287411630",
+    "firebase_url": "https://kath-log-default-rtdb.firebaseio.com",
+    "project_id": "kath-log",
+    "storage_bucket": "kath-log.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751287411630:android:99a00319c88d5c7f5d9e3f",
+        "android_client_info": {
+          "package_name": "com.example.vote_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751287411630-j9mdmnpfv8ktbkdru6nitlonqsi0bplp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vote_firebase",
+            "certificate_hash": "735527df930268ce67aae17996796efe794f3de4"
+          }
+        },
+        {
+          "client_id": "751287411630-jvcrvcgl22i6il0dvh84qu5knonadbb5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6Juj9MaOobX7rmxzGmBBNgg6z0qbY6aI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "751287411630-jvcrvcgl22i6il0dvh84qu5knonadbb5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
